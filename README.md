@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 15 — Workflows in LangGraph  *(Hands-On — 15 min)*
 
 Wires every Milestone 1 + Milestone 2 agent into one end-to-end LangGraph. Enter a company name, get a staged row.
@@ -32,3 +33,6 @@ Set these 3 env vars (see `tracing_guide.md`) and every node appears on the Lang
 ## Skill-Set and Hiring flows
 
 Kept as **commented branches** in `graph.py`. The same pattern (`researcher → validator → cleaner → etl`) applies, just swap the node functions. Left as an extension so the demo finishes within the 15-minute slot.
+=======
+# Job-Search-Agent
+>>>>>>> 7b247f77dfb07d64f1eb2ca9e0fc9c974960f964
